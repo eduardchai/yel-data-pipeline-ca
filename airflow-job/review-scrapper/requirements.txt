@@ -1,0 +1,7 @@
+beautifulsoup4
+urllib3
+numpy
+pandas
+requests
+tqdm
+google-cloud-pubsub==1.4.2

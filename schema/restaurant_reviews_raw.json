@@ -1,0 +1,61 @@
+[{
+    "mode": "NULLABLE",
+    "name": "review_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "reviewer_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "restaurant_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "timestamp",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "rating",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "review_content",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "friend_count",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "review_count",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "useful_count",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "cool_count",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "funny_count",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "restaurant_rating",
+    "type": "FLOAT"
+  }
+]

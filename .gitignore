@@ -1,0 +1,23 @@
+# python
+*.egg-info/
+__pycache__/
+
+# plugin specific
+.mypy_cache/
+.direnv/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# project specific
+cache/
+build/
+docs/source/api/
+
+# editor and platform
+.DS_Store
+.vscode/
+secrets/
+
+.ipynb_checkpoints

@@ -1,0 +1,1 @@
+bq load --replace --source_format=CSV --skip_leading_rows=1 big-data-project-272506:mock.restaurant_reviews_labeled gs://big-data-labeled-data/$1/*.csv

@@ -1,0 +1,21 @@
+[{
+    "name": "timestamp",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "review_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "review_snippet",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "error_message",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]
