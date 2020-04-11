@@ -1,4 +1,4 @@
-# Big Data Processing CA
+# Big Data Processing CA – Yelp Data Pipeline
 
 **Notes:** This code is developed and tested on MacOS environment. It should not have any issue on Linux machine. For Windows, some adjustments might be needed.
 
