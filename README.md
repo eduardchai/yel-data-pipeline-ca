@@ -16,7 +16,7 @@ $ pip install -r requirements.txt
 
 ### Makefile
 
-Some scripts are provided in `Makefile`. You need to have `make` installed to run it. For example, to run the simulation:
+Some scripts are provided in the `Makefile`. You need to have `make` installed to run it. For example, to run the simulation:
 ```
 $ make publish-message
 ```
